@@ -1,6 +1,7 @@
 # Credit_Scoring_Model
+# TASK 1
 
-CODEALPHA INTERNSHIP PROGRAM
+CodeAlpha Internship Program
 
 *DOMAIN*: MACHINE LEARNING
 
