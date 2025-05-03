@@ -1,7 +1,7 @@
 # Credit_Scoring_Model
-# TASK 1
+# CodeAlpha Internship Program
 
-CodeAlpha Internship Program
+*Task 1*: Credit_Scoring_Model
 
 *DOMAIN*: MACHINE LEARNING
 
